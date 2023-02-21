@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "talksport",
+                "name": "TalkSport"
+            },
+            "author": "Anton Stanley",
+            "title": "Indian cricket star Rishabh Pant hospitalised after horrific crash which left car engulfed in flames...",
+            "description": "",
+            "url": "https://talksport.com/sport/cricket/1289240/india-wicketkeeper-rishabh-pant-hospital-serious-car-crash-injuries-knee-ligament-tear/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2022/12/OQ-TALKSPORT-PANT.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+            "publishedAt": "2022-12-30T09:13:28Z",
+            "content": "India cricket star Rishabh Pant has been injured and is recovering in hospital after a horror car accident.\r\nThe wicketkeeper-batsman lost control of his car and hit a divider on a highway, while tra… [+2885 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": null,
+            "title": "Rishabh Pant Broke Windscreen To Escape Burning Car: 10 Points",
+            "description": "Cricketer Rishabh Pant was injured after he met with an accident early Friday morning. He was travelling from Delhi to Uttarakhand when his car hit a divider.",
+            "url": "https://www.ndtv.com/india-news/rishabh-pant-suffers-burn-injuries-as-mercedes-crashes-catches-fire-5-points-3649710",
+            "urlToImage": "https://c.ndtvimg.com/2022-12/g0repftk_rishabh-pant-accident_625x300_30_December_22.jpg",
+            "publishedAt": "2022-12-30T08:10:00+00:00",
+            "content": "<li>Rishabh Pant's Mercedes caught fire after the collision around 5.30 am.\r\n</li><li>He got two cuts on his forehead, a ligament tear in his right knee and has also hurt his right wrist, ankle and t… [+916 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
